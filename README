@@ -1,0 +1,26 @@
+IMDBQuery
+=========
+
+The point of this tool is query IMDB to gather some fun facts
+like "what's the average rating of movies that Pierce
+Brosnan appeared in?" and "which Stallone movie scored best
+and which one worst?"
+
+Requirements
+============
+A normal PHP 5+ install with curl, DOM* and tidy modules
+installed should do the trick.
+
+Running
+=======
+Check the check.php script - it shows how to run the scripts
+
+Testing
+=======
+There are unit tests supplied for most of the classes - check
+the /tests/ folder. You'll need PHPUnit to run them.
+
+Contact
+=======
+If you want to get in contact with the author, write to:
+peter@plphp.dk
